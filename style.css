@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background: radial-gradient(black, transparent);
+}
+.logo{
+    color: #fff;
+}
+.logo:after{
+    content: '-Tech';
+    color:brown;
+}
+.navbar .navbar-brand{
+    font-size: 29px;
+    font-weight: 700;
+    font-family: 'Mooli', sans-serif;
+}
+.btn-primary-1{
+    margin-left: 54px;
+    color: #fff;
+    background: black;
+    border: 2px solid white;
+    text-align: center;
+    width: 115px;
+}
+.nav-item {
+    font-family: 'Mooli', sans-serif;
+    font-size: 18px;
+    padding-left: 9px;
+}
+.nav-link{
+    color: white !important;
+    text-transform: uppercase;
+    font-size: large;
+    font-family: poppins;
+}
+ .nav-item .nav-link:hover{
+    color: coral !important;
+}
+.carousel-caption{
+    color: wheat;
+    font-size: 14px;
+}
+.h{
+    font-size: 31px;
+    color: crimson;
+}
+.service-title{
+    color: coral;
+    font-family: 'Mooli';
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.service-para{
+    font-family: 'Poppins';
+    font-size: 16px;
+    line-height: 31px;
+}
+.fa-brands{
+    color: red;
+    font-size: 36px; 
+}
+.card-body{
+    border: 4px solid darkred;
+}
+.port-title{
+    color: grey;
+    font-family: 'Mooli';
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.port-img{
+    object-fit: cover;
+    width: 291px;
+    height: 246px;
+    margin-left: 1px;
+}
+.box{
+    margin-bottom: 31px;
+    margin-left: 33px;
+}
+.items1{
+    text-align: center;
+    word-spacing: 28px;
+}
+.item-name{
+    text-decoration: none; 
+    color: black;
+}
+.active{
+    color:orangered;
+}
+.item-li{
+    display: inline;
+}
+#item-box{
+    margin-left: -9px;
+    position: absolute;
+    left: 77px;
+}
+.con-title{
+    color: brown;
+    font-family: 'Mooli';
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.box1{
+    background: antiquewhite;
+}
+
